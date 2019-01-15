@@ -37,6 +37,7 @@
 		<li><a href="#pro">profile</a></li>
 		<li><a href="#gal">galery</a></li>
 		<li><a href="#kont">kontaktu</a></li>
+		<li><a href="#ekipa">ami nia ekipa</a></li>
 	</ul>
 </div>
 <div class="header">
